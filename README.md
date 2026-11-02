@@ -2,8 +2,6 @@
 
 A clean, mobile-first pricing calculator. Enter a cost price and target margin (or markup) and it instantly gives you the sell price, snapped to the nearest charm price (ending in 9¢).
 
-**Live demo:** https://rfc-counter.netlify.app
-
 ---
 
 ## Features
